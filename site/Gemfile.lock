@@ -87,7 +87,7 @@ GEM
     rexml (3.2.6)
     rouge (4.2.0)
     safe_yaml (1.0.5)
-    sassc (2.4.0)
+    jekyll-sass-converter (1.5.2)
       ffi (~> 1.9)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
